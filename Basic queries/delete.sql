@@ -1,0 +1,1 @@
+delete FROM user where id=4;

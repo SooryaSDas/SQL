@@ -1,0 +1,2 @@
+INSERT INTO `user`(`id`, `fullname`, `email`, `password`) VALUES (5,'Ganga Mohan','ganga@gmail.com',123)
+INSERT INTO `user`(`id`, `fullname`, `email`, `password`) VALUES (5,'Ganga Mohan','ganga@gmail.com',123)

@@ -1,0 +1,1 @@
+UPDATE user SET fullname = 'Robert' WHERE id = 3;

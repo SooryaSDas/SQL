@@ -1,0 +1,1 @@
+Select fullname From user Where id IS NULL;

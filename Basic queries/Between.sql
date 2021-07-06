@@ -1,0 +1,1 @@
+SELECT id, fullname FROM user WHERE password BETWEEN 123 AND 234;

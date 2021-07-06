@@ -1,0 +1,1 @@
+SELECT * FROM user WHERE NOT fullname='Soorya S Das';

@@ -1,0 +1,1 @@
+SELECT id,fullname FROM user WHERE password IN (123,124);

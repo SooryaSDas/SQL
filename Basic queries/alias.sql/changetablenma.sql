@@ -1,0 +1,1 @@
+SELECT fullname, id FROM user as user1

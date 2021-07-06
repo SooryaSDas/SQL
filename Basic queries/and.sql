@@ -1,0 +1,1 @@
+SELECT * FROM 'user' WHERE fullname='Soorya s das' AND password='123';

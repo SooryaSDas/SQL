@@ -1,0 +1,1 @@
+SELECT fullname FROM sandra WHERE password='123';
